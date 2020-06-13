@@ -69,24 +69,38 @@ def Residual_block_v2(input_tensor, kernel_size, filters, stage, block):
 '''
 試試看自己設計一個先壓縮再回放的V2 Block
 '''
-def Residual_block_v2(input_tensor, kernel_size, stage, block,reduce=96,ouput_size=128):
+def Residual_block_v2_reduce(input_tensor, kernel_size, stage, block,reduce,output_size):
     
-    filters1, filters2, filters3 = filters
+    
     conv_name_base = 'res' + str(stage) + block + '_branch'
     bn_name_base = 'bn' + str(stage) + block + '_branch'
-
-    x = BatchNormalization(axis=3, name=bn_name_base + '2a')(input_tensor)
+    
+    '''
+    reduce to setting: reduce the image channels from input.shape[-1] into reduce
+    '''
+    x = Conv2D(reduce, (1, 1), name=conv_name_base + '2a')(input_tensor)
+    '''
+    V2 block:BAC(reduce)BAC(expand)
+    the main Conv2D applies target kernel on image with reduced channels
+    the last Conv2D inverse the first Conv2D operation to recover input original channels.
+    '''
+    x = BatchNormalization(axis=3, name=bn_name_base + '2a')(x)
     x = Activation('relu')(x)    
-    x = Conv2D(filters1, (1, 1), name=conv_name_base + '2a')(x)
+    x = Conv2D(reduce, kernel_size,
+               padding='same', name=conv_name_base + '2b')(x)
     x = BatchNormalization(axis=3, name=bn_name_base + '2b')(x)
     x = Activation('relu')(x)    
-    x = Conv2D(filters2, kernel_size,
-               padding='same', name=conv_name_base + '2b')(x)
+    x = Conv2D(output_size, (1,1),
+               padding='same', name=conv_name_base + '2c')(x)
 
    
     x = layers.add([x, input_tensor])
     x = Activation('relu')(x)
     return x
+
+img_input = Input(shape=(224,224,128))
+x=Residual_block_v2_reduce(img_input,3, 2,'Residual',96,img_input.shape[-1])
+print(x)
 
 
 def Conv2d_bn(x,filters,kernel_size,padding='same',strides=(1, 1),normalizer=True,activation='relu',name=None):
@@ -143,24 +157,24 @@ def inception_resnet_block(x, scale, block_type, activation='relu'):
             to the shortcut branch. Let `r` be the output from the residual branch,
             the output of this block will be `x + scale * r`.(簡單來說就是控制Residual branch的比例)'''
     if block_type == 'Incpetion_Block-A':
-        branch_0 = Conv2D(32, (1, 1))(x)
-        branch_1 = Conv2D(64, (1, 1))(x)
-        branch_1 = Conv2D(96, (3, 3))(branch_1)
-        branch_2 = Conv2D(64, (1, 1))(x)
-        branch_2 = Conv2D(96, (3, 3))(branch_2)
-        branch_2 = Conv2D(96, (3, 3))(branch_2)
+        branch_0 = Conv2d_bn(x,32, 1)
+        branch_1 = Conv2d_bn(x,32, 1)
+        branch_1 = Conv2d_bn(branch_1,32, 3)
+        branch_2 = Conv2d_bn(x,32, 1)
+        branch_2 = Conv2d_bn(branch_2, 48,3)
+        branch_2 = Conv2d_bn(branch_2, 64, 3)
         branches = [branch_0, branch_1, branch_2]
     elif block_type == 'Incpetion_Block-B':
-        branch_0 = Conv2D(384, (1, 1))(x)
-        branch_1 = Conv2D(192, (1, 7))(x)
-        branch_1 = Conv2D(224, (1, 7))(x)
-        branch_1 = Conv2D(256, (1, 7))(x)
+        branch_0 = Conv2d_bn(x, 192, 1)
+        branch_1 = Conv2d_bn(x, 128,1)
+        branch_1 = Conv2d_bn(branch_1, 160, [1, 7])
+        branch_1 = Conv2d_bn(branch_1, 192, [7, 1])
         branches = [branch_0, branch_1]
     elif block_type == 'Incpetion_Block-C':
-        branch_0 =
-        branch_1 = 
-        branch_1 = 
-        branch_1 = 
+        branch_0 = Conv2d_bn(x, 192, 1)
+        branch_1 = Conv2d_bn(x, 192, 1)
+        branch_1 = Conv2d_bn(branch_1, 192, [1, 3])
+        branch_1 = Conv2d_bn(branch_1, 192, [3, 1])
         branches = [branch_0, branch_1]
     else:
         raise ValueError('Unknown Inception-ResNet block type. '
@@ -173,9 +187,9 @@ def inception_resnet_block(x, scale, block_type, activation='relu'):
     
     '''導入殘差結構，並給予權重'''
     
-    x = Lambda(lambda inputs, scale: '''應該為？'''+ '''應該為？''' * scale, ##提示inputs[0]、inputs[1]
+    x = Lambda(lambda inputs, scale: inputs[0]+ inputs[1] * scale, ##提示inputs[0]、inputs[1]
                output_shape=K.int_shape(x)[1:],
-               arguments={'scale': scale},)([x,up])
+               arguments={'scale': scale})([x,up])
     
     if activation is not None:
         x = Activation(activation)(x)
@@ -218,9 +232,9 @@ def VGG16_ResNet_Inception(include_top=True,input_tensor=None, input_shape=(224,
     x = MaxPooling2D((2, 2), strides=(2, 2), name='block2_pool')(x)
 
     # Block 3
-    x = InceptionV1_block(x, ((64,), (96,128), (16,32), (32,)), 3, 'Block_1')
-    x = InceptionV1_block(x, ((64,), (96,128), (16,32), (32,)), 3, 'Block_2')
-    x = InceptionV1_block(x, ((64,), (96,128), (16,32), (32,)), 3, 'Block_3')
+    x = inception_resnet_block(x, 0.1, 'Incpetion_Block-A', activation='relu')
+    x = inception_resnet_block(x, 0.1, 'Incpetion_Block-A', activation='relu')
+    x = inception_resnet_block(x, 0.1, 'Incpetion_Block-A', activation='relu')
     x = MaxPooling2D((2, 2), strides=(2, 2), name='block3_pool')(x)
 
     # Block 4
@@ -231,9 +245,9 @@ def VGG16_ResNet_Inception(include_top=True,input_tensor=None, input_shape=(224,
 
     # Block 5 
     #為什麼要加InceptionV3_block 原因?
-    x =InceptionV3_block(x, ((128,), (192,256), (32,64), (64,)), 3, 'Block_4')
-    x =InceptionV3_block(x, ((128,), (192,256), (32,64), (64,)), 3, 'Block_5')
-    x =InceptionV3_block(x, ((128,), (192,256), (32,64), (64,)), 3, 'Block_6')
+    x =inception_resnet_block(x, 0.1, 'Incpetion_Block-B', activation='relu')
+    x =inception_resnet_block(x, 0.1, 'Incpetion_Block-B', activation='relu')
+    x =inception_resnet_block(x, 0.1, 'Incpetion_Block-B', activation='relu')
     x =MaxPooling2D((2, 2), strides=(2, 2), name='block5_pool')(x)
 
     if include_top:
