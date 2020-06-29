@@ -48,7 +48,7 @@ def nms(bounding_boxes, confidence_score, threshold):
     while order.size > 0:
         # The index of largest confidence score
         '''當前confidence最大的預測框'''
-        index = order[0]
+        index = order[-1]
 
         # Pick the bounding box with largest confidence score
         '''保存這個BBOX'''
