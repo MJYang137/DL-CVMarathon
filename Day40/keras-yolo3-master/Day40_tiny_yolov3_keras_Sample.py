@@ -11,7 +11,7 @@
 import tensorflow as tf
 print(tf.__version__)
 import os,sys
-#tf.compat.v1.disable_eager_execution()
+tf.compat.v1.disable_eager_execution()
 # In[2]:
 
 
@@ -310,10 +310,13 @@ for i in range(100):
 avg_fps = 1/np.mean(time_eplased)
 print("avg fps: %.3f" % avg_fps)
 
+r_image = yolo.detect_image(image) # 執行 yolo 檢測，將回傳的圖片儲存在 r_image 中
+
+
 
 # In[15]:
 
-'''
+
 get_ipython().system('nvidia-smi # 可用來檢測使用什麼 GPU, 在這裡是 Tesla K80')
 
 
@@ -389,4 +392,4 @@ tiny_yolo_r_image
 
 
 # 可以觀察得到 tiny-yolov3 在使用同一張 GPU 的情況下，對同一張圖像的檢測速度有很大的提升，但是也可以由範例圖片的檢測結果看得出 tiny-yolov3 的信心度不高，並且 bbox 的定位也沒有那麼精準，如何取捨就看實務上的需求咯！
-'''
+
