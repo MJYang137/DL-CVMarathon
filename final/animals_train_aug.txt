@@ -1,0 +1,873 @@
+./raccoon_dataset/images/raccoon-1.jpg 81,88,522,408,0
+./raccoon_dataset/images/raccoon-10.jpg 130,2,446,488,0
+./raccoon_dataset/images/raccoon-100.jpg 548,10,954,520,0
+./raccoon_dataset/images/raccoon-101.jpg 86,53,400,356,0
+./raccoon_dataset/images/raccoon-102.jpg 1,1,118,152,0
+./raccoon_dataset/images/raccoon-103.jpg 92,54,460,545,0
+./raccoon_dataset/images/raccoon-104.jpg 189,41,340,249,0
+./raccoon_dataset/images/raccoon-105.jpg 250,49,714,869,0
+./raccoon_dataset/images/raccoon-106.jpg 31,21,226,146,0
+./raccoon_dataset/images/raccoon-107.jpg 165,51,496,590,0
+./raccoon_dataset/images/raccoon-108.jpg 99,53,402,464,0
+./raccoon_dataset/images/raccoon-109.jpg 9,1,177,252,0
+./raccoon_dataset/images/raccoon-11.jpg 3,1,461,431,0
+./raccoon_dataset/images/raccoon-110.jpg 23,2,166,262,0
+./raccoon_dataset/images/raccoon-111.jpg 41,5,683,917,0
+./raccoon_dataset/images/raccoon-112.jpg 131,174,775,563,0
+./raccoon_dataset/images/raccoon-113.jpg 1,1,384,436,0
+./raccoon_dataset/images/raccoon-114.jpg 242,35,523,264,0
+./raccoon_dataset/images/raccoon-115.jpg 51,130,351,556,0
+./raccoon_dataset/images/raccoon-116.jpg 3,1,436,430,0
+./raccoon_dataset/images/raccoon-117.jpg 100,124,266,324,0 342,101,570,297,0
+./raccoon_dataset/images/raccoon-118.jpg 109,31,307,297,0
+./raccoon_dataset/images/raccoon-119.jpg 16,62,362,353,0 211,359,277,402,0 198,392,280,473,0
+./raccoon_dataset/images/raccoon-12.jpg 28,21,126,181,0 85,33,235,193,0
+./raccoon_dataset/images/raccoon-120.jpg 129,12,510,331,0
+./raccoon_dataset/images/raccoon-121.jpg 55,34,416,377,0
+./raccoon_dataset/images/raccoon-122.jpg 7,7,174,198,0
+./raccoon_dataset/images/raccoon-123.jpg 280,42,550,392,0
+./raccoon_dataset/images/raccoon-124.jpg 17,39,239,147,0
+./raccoon_dataset/images/raccoon-125.jpg 13,6,252,190,0
+./raccoon_dataset/images/raccoon-126.jpg 5,5,246,192,0
+./raccoon_dataset/images/raccoon-127.jpg 125,59,212,165,0
+./raccoon_dataset/images/raccoon-128.jpg 76,87,190,148,0
+./raccoon_dataset/images/raccoon-129.jpg 142,24,442,276,0
+./raccoon_dataset/images/raccoon-13.jpg 55,28,393,313,0
+./raccoon_dataset/images/raccoon-130.jpg 223,62,497,307,0 453,41,640,423,0
+./raccoon_dataset/images/raccoon-131.jpg 1,1,199,184,0
+./raccoon_dataset/images/raccoon-132.jpg 6,2,240,131,0
+./raccoon_dataset/images/raccoon-133.jpg 8,6,476,631,0
+./raccoon_dataset/images/raccoon-134.jpg 125,87,194,169,0
+./raccoon_dataset/images/raccoon-135.jpg 99,8,605,404,0
+./raccoon_dataset/images/raccoon-136.jpg 51,24,198,192,0
+./raccoon_dataset/images/raccoon-137.jpg 71,8,304,233,0
+./raccoon_dataset/images/raccoon-138.jpg 56,54,226,150,0
+./raccoon_dataset/images/raccoon-139.jpg 20,6,177,167,0
+./raccoon_dataset/images/raccoon-14.jpg 163,81,546,438,0
+./raccoon_dataset/images/raccoon-140.jpg 6,17,202,231,0
+./raccoon_dataset/images/raccoon-141.jpg 1,1,154,176,0
+./raccoon_dataset/images/raccoon-142.jpg 171,162,811,740,0
+./raccoon_dataset/images/raccoon-143.jpg 17,29,238,162,0
+./raccoon_dataset/images/raccoon-144.jpg 117,42,387,390,0
+./raccoon_dataset/images/raccoon-145.jpg 3,36,345,450,0 260,41,569,449,0
+./raccoon_dataset/images/raccoon-146.jpg 4,4,271,180,0
+./raccoon_dataset/images/raccoon-147.jpg 13,1,426,486,0
+./raccoon_dataset/images/raccoon-148.jpg 32,177,174,316,0 309,172,428,315,0
+./raccoon_dataset/images/raccoon-149.jpg 132,50,305,246,0
+./raccoon_dataset/images/raccoon-15.jpg 313,61,614,360,0
+./raccoon_dataset/images/raccoon-150.jpg 80,62,187,169,0
+./raccoon_dataset/images/raccoon-151.jpg 42,94,108,224,0
+./raccoon_dataset/images/raccoon-152.jpg 41,60,223,155,0
+./raccoon_dataset/images/raccoon-153.jpg 10,1,612,700,0
+./raccoon_dataset/images/raccoon-154.jpg 148,56,517,346,0
+./raccoon_dataset/images/raccoon-155.jpg 46,91,143,169,0
+./raccoon_dataset/images/raccoon-156.jpg 27,27,139,243,0
+./raccoon_dataset/images/raccoon-157.jpg 1,1,144,209,0
+./raccoon_dataset/images/raccoon-158.jpg 23,23,262,177,0
+./raccoon_dataset/images/raccoon-159.jpg 14,11,223,221,0
+./raccoon_dataset/images/raccoon-16.jpg 51,178,355,632,0
+./raccoon_dataset/images/raccoon-160.jpg 7,42,162,197,0
+./raccoon_dataset/images/raccoon-161.jpg 209,73,385,186,0
+./raccoon_dataset/images/raccoon-162.jpg 45,34,161,184,0
+./raccoon_dataset/images/raccoon-163.jpg 6,7,240,157,0
+./raccoon_dataset/images/raccoon-164.jpg 10,27,178,184,0
+./raccoon_dataset/images/raccoon-165.jpg 27,11,194,228,0
+./raccoon_dataset/images/raccoon-166.jpg 108,31,208,120,0
+./raccoon_dataset/images/raccoon-167.jpg 1,5,175,195,0
+./raccoon_dataset/images/raccoon-168.jpg 98,88,374,303,0 173,1,471,309,0
+./raccoon_dataset/images/raccoon-169.jpg 194,1,549,409,0
+./raccoon_dataset/images/raccoon-17.jpg 95,60,167,118,0
+./raccoon_dataset/images/raccoon-170.jpg 53,27,254,173,0
+./raccoon_dataset/images/raccoon-171.jpg 108,21,180,115,0
+./raccoon_dataset/images/raccoon-172.jpg 183,53,399,302,0
+./raccoon_dataset/images/raccoon-173.jpg 202,21,515,387,0
+./raccoon_dataset/images/raccoon-174.jpg 125,43,588,527,0
+./raccoon_dataset/images/raccoon-175.jpg 69,89,354,378,0
+./raccoon_dataset/images/raccoon-176.jpg 308,90,611,426,0 103,1,314,189,0
+./raccoon_dataset/images/raccoon-177.jpg 8,18,157,178,0 146,13,263,146,0
+./raccoon_dataset/images/raccoon-178.jpg 59,12,242,180,0
+./raccoon_dataset/images/raccoon-179.jpg 1,176,270,427,0
+./raccoon_dataset/images/raccoon-18.jpg 32,25,201,130,0
+./raccoon_dataset/images/raccoon-180.jpg 119,21,368,399,0
+./raccoon_dataset/images/raccoon-181.jpg 100,1,420,411,0
+./raccoon_dataset/images/raccoon-182.jpg 17,122,279,499,0
+./raccoon_dataset/images/raccoon-183.jpg 358,21,1354,1119,0
+./raccoon_dataset/images/raccoon-184.jpg 81,77,567,617,0
+./raccoon_dataset/images/raccoon-185.jpg 25,1,200,181,0
+./raccoon_dataset/images/raccoon-186.jpg 34,40,536,387,0
+./raccoon_dataset/images/raccoon-187.jpg 161,112,292,276,0
+./raccoon_dataset/images/raccoon-188.jpg 26,71,366,334,0
+./raccoon_dataset/images/raccoon-189.jpg 19,2,508,438,0
+./raccoon_dataset/images/raccoon-19.jpg 87,8,182,89,0
+./raccoon_dataset/images/raccoon-190.jpg 78,54,153,135,0
+./raccoon_dataset/images/raccoon-191.jpg 100,89,478,331,0
+./raccoon_dataset/images/raccoon-192.jpg 127,160,298,289,0
+./raccoon_dataset/images/raccoon-193.jpg 23,215,440,831,0
+./raccoon_dataset/images/raccoon-194.jpg 1,63,885,1042,0
+./raccoon_dataset/images/raccoon-195.jpg 25,111,197,225,0
+./raccoon_dataset/images/raccoon-196.jpg 83,87,211,211,0
+./raccoon_dataset/images/raccoon-197.jpg 114,35,987,653,0
+./raccoon_dataset/images/raccoon-198.jpg 57,21,158,184,0 112,32,199,158,0
+./raccoon_dataset/images/raccoon-199.jpg 28,64,530,402,0
+./raccoon_dataset/images/raccoon-2.jpg 60,51,462,499,0
+./raccoon_dataset/images/raccoon-20.jpg 2,29,720,503,0
+./raccoon_dataset/images/raccoon-200.jpg 107,10,249,166,0
+./raccoon_dataset/images/raccoon-21.jpg 59,2,216,171,0
+./raccoon_dataset/images/raccoon-22.jpg 252,76,466,335,0
+./raccoon_dataset/images/raccoon-23.jpg 108,1,258,194,0
+./raccoon_dataset/images/raccoon-24.jpg 77,48,179,156,0 139,77,202,145,0
+./raccoon_dataset/images/raccoon-25.jpg 31,82,325,641,0
+./raccoon_dataset/images/raccoon-26.jpg 114,5,306,337,0
+./raccoon_dataset/images/raccoon-27.jpg 14,38,592,373,0
+./raccoon_dataset/images/raccoon-28.jpg 93,80,601,452,0
+./raccoon_dataset/images/raccoon-29.jpg 70,6,219,179,0
+./raccoon_dataset/images/raccoon-3.jpg 1,1,720,476,0
+./raccoon_dataset/images/raccoon-30.jpg 78,25,182,177,0
+./raccoon_dataset/images/raccoon-31.jpg 82,21,187,197,0 11,55,80,145,0
+./raccoon_dataset/images/raccoon-32.jpg 88,92,473,328,0
+./raccoon_dataset/images/raccoon-33.jpg 89,12,593,843,0
+./raccoon_dataset/images/raccoon-34.jpg 1,2,227,194,0
+./raccoon_dataset/images/raccoon-35.jpg 1,1,164,183,0
+./raccoon_dataset/images/raccoon-36.jpg 113,27,468,428,0
+./raccoon_dataset/images/raccoon-37.jpg 13,1,500,592,0
+./raccoon_dataset/images/raccoon-38.jpg 7,17,257,180,0
+./raccoon_dataset/images/raccoon-39.jpg 54,12,250,166,0
+./raccoon_dataset/images/raccoon-4.jpg 21,11,200,183,0
+./raccoon_dataset/images/raccoon-40.jpg 164,53,349,275,0
+./raccoon_dataset/images/raccoon-41.jpg 211,78,530,468,0
+./raccoon_dataset/images/raccoon-42.jpg 121,206,410,767,0
+./raccoon_dataset/images/raccoon-43.jpg 1,65,239,316,0
+./raccoon_dataset/images/raccoon-44.jpg 45,14,247,165,0
+./raccoon_dataset/images/raccoon-45.jpg 140,6,454,370,0
+./raccoon_dataset/images/raccoon-46.jpg 145,2,423,318,0
+./raccoon_dataset/images/raccoon-47.jpg 34,4,233,193,0
+./raccoon_dataset/images/raccoon-48.jpg 43,28,240,176,0
+./raccoon_dataset/images/raccoon-49.jpg 162,36,611,395,0
+./raccoon_dataset/images/raccoon-5.jpg 3,3,260,179,0
+./raccoon_dataset/images/raccoon-50.jpg 36,2,174,172,0
+./raccoon_dataset/images/raccoon-51.jpg 315,105,772,540,0
+./raccoon_dataset/images/raccoon-52.jpg 105,10,502,501,0
+./raccoon_dataset/images/raccoon-53.jpg 71,45,197,171,0
+./raccoon_dataset/images/raccoon-54.jpg 78,5,517,333,0
+./raccoon_dataset/images/raccoon-55.jpg 6,49,250,320,0 274,27,563,410,0
+./raccoon_dataset/images/raccoon-56.jpg 20,6,224,201,0
+./raccoon_dataset/images/raccoon-57.jpg 82,6,638,423,0
+./raccoon_dataset/images/raccoon-58.jpg 2,1,199,221,0
+./raccoon_dataset/images/raccoon-59.jpg 1,2,449,432,0
+./raccoon_dataset/images/raccoon-6.jpg 1,44,307,316,0
+./raccoon_dataset/images/raccoon-60.jpg 58,33,197,127,0
+./raccoon_dataset/images/raccoon-61.jpg 94,63,195,148,0 142,39,213,108,0
+./raccoon_dataset/images/raccoon-62.jpg 73,19,632,407,0
+./kangaroo/images/00001.jpg 233,89,386,262,1 134,105,341,253,1
+./kangaroo/images/00002.jpg 156,114,240,309,1 222,117,415,306,1
+./kangaroo/images/00003.jpg 99,5,403,279,1
+./kangaroo/images/00004.jpg 15,71,316,233,1
+./kangaroo/images/00005.jpg 508,213,843,466,1
+./kangaroo/images/00006.jpg 186,173,366,422,1 86,307,226,385,1
+./kangaroo/images/00007.jpg 273,24,603,301,1
+./kangaroo/images/00009.jpg 43,135,237,348,1
+./kangaroo/images/00010.jpg 9,116,653,600,1 52,74,540,569,1 1,125,121,599,1
+./kangaroo/images/00011.jpg 7,116,410,331,1
+./kangaroo/images/00012.jpg 291,157,550,346,1
+./kangaroo/images/00013.jpg 223,87,428,355,1 62,114,596,399,1
+./kangaroo/images/00014.jpg 381,27,620,308,1 283,154,422,305,1 236,93,372,214,1 4,156,326,318,1
+./kangaroo/images/00016.jpg 91,15,565,415,1
+./kangaroo/images/00017.jpg 61,3,506,387,1
+./kangaroo/images/00018.jpg 221,1,478,281,1
+./kangaroo/images/00019.jpg 174,74,285,358,1 374,159,598,396,1
+./kangaroo/images/00020.jpg 98,28,592,472,1 508,302,561,373,1
+./kangaroo/images/00021.jpg 300,194,640,371,1 184,263,506,399,1
+./kangaroo/images/00022.jpg 22,205,341,399,1 509,131,559,207,1 31,138,136,211,1 295,174,429,221,1 178,141,285,202,1
+./kangaroo/images/00023.jpg 87,47,239,257,1
+./kangaroo/images/00024.jpg 248,260,516,428,1 91,69,270,370,1
+./kangaroo/images/00025.jpg 22,49,640,363,1
+./kangaroo/images/00026.jpg 311,284,494,407,1
+./kangaroo/images/00027.jpg 128,1,335,199,1
+./kangaroo/images/00028.jpg 140,95,673,467,1 55,69,286,352,1
+./kangaroo/images/00029.jpg 139,52,339,258,1
+./kangaroo/images/00030.jpg 32,21,236,434,1
+./kangaroo/images/00031.jpg 1,17,260,326,1 192,75,426,283,1
+./kangaroo/images/00032.jpg 83,27,262,357,1
+./kangaroo/images/00033.jpg 273,24,603,301,1
+./kangaroo/images/00034.jpg 1,141,270,449,1
+./kangaroo/images/00036.jpg 110,2,312,493,1 257,280,718,502,1 421,133,783,301,1 339,103,522,232,1 676,31,800,267,1
+./kangaroo/images/00037.jpg 286,59,383,325,1 98,80,254,318,1 12,140,269,388,1
+./kangaroo/images/00038.jpg 218,19,450,263,1
+./kangaroo/images/00039.jpg 179,27,345,272,1 290,52,453,281,1
+./kangaroo/images/00040.jpg 456,132,526,203,1
+./kangaroo/images/00041.jpg 319,118,962,456,1
+./kangaroo/images/00042.jpg 246,429,572,769,1
+./kangaroo/images/00043.jpg 25,4,469,391,1
+./kangaroo/images/00044.jpg 463,48,738,468,1 478,300,592,414,1
+./kangaroo/images/00045.jpg 210,148,307,395,1 302,180,444,422,1
+./kangaroo/images/00046.jpg 1,105,224,289,1 313,106,574,335,1
+./kangaroo/images/00047.jpg 171,210,339,281,1
+./kangaroo/images/00048.jpg 390,155,537,265,1 288,110,371,149,1 97,143,226,190,1 124,207,274,292,1
+./kangaroo/images/00049.jpg 308,94,559,412,1
+./kangaroo/images/00050.jpg 129,222,609,574,1 488,415,553,495,1
+./kangaroo/images/00051.jpg 224,38,385,348,1 28,87,273,346,1
+./kangaroo/images/00052.jpg 124,38,306,221,1
+./kangaroo/images/00053.jpg 277,157,470,438,1 653,157,809,565,1 124,268,274,446,1
+./kangaroo/images/00054.jpg 145,22,640,449,1
+./kangaroo/images/00055.jpg 156,19,341,339,1
+./kangaroo/images/00056.jpg 222,3,345,256,1 1,118,259,250,1
+./kangaroo/images/00059.jpg 130,186,800,506,1
+./kangaroo/images/00060.jpg 300,106,500,369,1 133,213,333,425,1
+./kangaroo/images/00061.jpg 542,182,1038,573,1
+./kangaroo/images/00062.jpg 1,112,220,446,1 180,98,305,435,1
+./kangaroo/images/00064.jpg 75,156,457,443,1
+./kangaroo/images/00065.jpg 82,38,244,434,1
+./kangaroo/images/00066.jpg 366,235,698,451,1
+./kangaroo/images/00069.jpg 1,54,306,325,1
+./kangaroo/images/00071.jpg 98,150,458,346,1
+./kangaroo/images/00072.jpg 130,61,229,397,1
+./kangaroo/images/00073.jpg 564,35,953,482,1
+./kangaroo/images/00074.jpg 33,36,503,443,1
+./kangaroo/images/00075.jpg 34,82,412,244,1 254,44,294,79,1 62,27,152,76,1 1,38,59,76,1
+./kangaroo/images/00076.jpg 145,38,247,266,1 247,103,374,258,1 233,86,341,236,1
+./kangaroo/images/00077.jpg 1,120,224,319,1
+./kangaroo/images/00078.jpg 143,123,959,456,1
+./kangaroo/images/00079.jpg 170,76,711,468,1
+./kangaroo/images/00080.jpg 254,160,629,642,1
+./kangaroo/images/00081.jpg 353,95,515,337,1
+./kangaroo/images/00083.jpg 218,179,959,548,1
+./kangaroo/images/00084.jpg 9,129,476,388,1
+./kangaroo/images/00085.jpg 524,175,756,572,1 179,8,518,504,1 18,138,719,583,1
+./kangaroo/images/00086.jpg 333,189,927,466,1 41,291,392,489,1
+./kangaroo/images/00087.jpg 110,51,402,349,1
+./kangaroo/images/00088.jpg 295,118,446,350,1 181,164,342,363,1
+./kangaroo/images/00089.jpg 46,72,531,277,1
+./kangaroo/images/00090.jpg 152,163,584,370,1 291,39,590,219,1 48,81,268,289,1
+./kangaroo/images/00091.jpg 383,160,718,643,1
+./kangaroo/images/00092.jpg 74,47,263,299,1
+./kangaroo/images/00093.jpg 438,1,842,382,1
+./kangaroo/images/00094.jpg 163,19,381,378,1
+./kangaroo/images/00095.jpg 358,151,598,340,1
+./kangaroo/images/00096.jpg 407,147,783,476,1
+./kangaroo/images/00097.jpg 90,190,861,582,1
+./kangaroo/images/00098.jpg 149,155,344,365,1
+./kangaroo/images/00099.jpg 286,126,689,546,1 438,438,554,536,1 308,1,796,324,1
+./kangaroo/images/00100.jpg 151,93,697,382,1
+./kangaroo/images/00101.jpg 223,85,547,499,1
+./kangaroo/images/00102.jpg 311,84,634,406,1
+./kangaroo/images/00103.jpg 272,113,367,273,1 19,84,271,274,1
+./kangaroo/images/00105.jpg 95,48,464,541,1
+./kangaroo/images/00107.jpg 1,150,154,226,1 140,181,178,224,1 198,128,223,205,1 221,146,282,192,1
+./kangaroo/images/00108.jpg 95,93,284,258,1 295,91,365,229,1 380,107,488,254,1 7,19,174,295,1
+./kangaroo/images/00109.jpg 100,86,482,379,1
+./kangaroo/images/00110.jpg 160,73,446,212,1
+./kangaroo/images/00111.jpg 393,146,606,274,1
+./kangaroo/images/00112.jpg 269,253,377,373,1 501,350,707,461,1 80,258,124,316,1
+./kangaroo/images/00113.jpg 44,101,269,273,1 160,166,395,252,1
+./kangaroo/images/00114.jpg 1,33,294,234,1 233,140,421,233,1
+./kangaroo/images/00115.jpg 153,272,573,632,1 344,348,722,583,1 638,266,888,509,1 221,285,334,390,1
+./kangaroo/images/00116.jpg 218,73,459,530,1 437,27,847,587,1
+./kangaroo/images/00117.jpg 401,65,621,557,1
+./kangaroo/images/00118.jpg 138,63,360,324,1 11,45,189,326,1
+./kangaroo/images/00119.jpg 1,311,319,703,1 444,517,663,884,1 564,417,692,654,1 270,508,402,957,1 1,484,222,888,1
+./kangaroo/images/00120.jpg 207,80,644,453,1
+./kangaroo/images/00121.jpg 12,117,580,363,1
+./kangaroo/images/00122.jpg 73,54,311,227,1 182,89,445,202,1
+./kangaroo/images/00123.jpg 562,295,914,470,1
+./kangaroo/images/00124.jpg 29,165,423,340,1
+./kangaroo/images/00125.jpg 65,170,302,278,1
+./kangaroo/images/00127.jpg 181,173,498,342,1
+./kangaroo/images/00128.jpg 166,176,468,385,1
+./kangaroo/images/00129.jpg 183,32,365,450,1
+./kangaroo/images/00130.jpg 52,84,175,195,1
+./kangaroo/images/00131.jpg 274,137,420,388,1
+./kangaroo/images/00132.jpg 471,155,874,626,1
+./kangaroo/images/00134.jpg 28,56,539,349,1
+./kangaroo/images/00136.jpg 21,98,340,331,1
+./kangaroo/images/00137.jpg 236,297,580,533,1 624,444,966,651,1 1,346,146,503,1
+./kangaroo/images/00139.jpg 176,122,422,444,1 45,298,188,477,1 430,307,690,461,1 423,260,608,404,1
+./kangaroo/images/00140.jpg 30,33,503,638,1
+./kangaroo/images/00141.jpg 97,38,444,280,1
+./kangaroo/images/00143.jpg 421,227,1004,683,1
+./kangaroo/images/00144.jpg 131,72,598,522,1
+./kangaroo/images/00145.jpg 210,55,400,308,1
+./kangaroo/images/00146.jpg 316,72,535,407,1
+./kangaroo/images/00147.jpg 149,105,818,544,1
+./kangaroo/images/00148.jpg 207,33,701,398,1
+./raccoon_dataset/images/raccoon-1_HF.jpg 128,88,569,408,0
+./raccoon_dataset/images/raccoon-1_ROT.jpg 104,84,569,381,0
+./raccoon_dataset/images/raccoon-10_HF.jpg 4,2,320,488,0
+./raccoon_dataset/images/raccoon-10_ROT.jpg 107,2,445,468,0
+./raccoon_dataset/images/raccoon-100_HF.jpg 6,10,412,520,0
+./raccoon_dataset/images/raccoon-100_ROT.jpg 450,146,951,542,0
+./raccoon_dataset/images/raccoon-101_HF.jpg 240,53,554,356,0
+./raccoon_dataset/images/raccoon-101_ROT.jpg 85,64,407,357,0
+./raccoon_dataset/images/raccoon-102_HF.jpg 141,1,258,152,0
+./raccoon_dataset/images/raccoon-102_ROT.jpg 19,0,165,122,0
+./raccoon_dataset/images/raccoon-103_HF.jpg 20,54,388,545,0
+./raccoon_dataset/images/raccoon-103_ROT.jpg 89,58,458,549,0
+./raccoon_dataset/images/raccoon-104_HF.jpg 260,41,411,249,0
+./raccoon_dataset/images/raccoon-104_ROT.jpg 165,87,372,228,0
+./raccoon_dataset/images/raccoon-105_HF.jpg 6,49,470,869,0
+./raccoon_dataset/images/raccoon-105_ROT.jpg 174,129,701,892,0
+./raccoon_dataset/images/raccoon-106_HF.jpg 43,21,238,146,0
+./raccoon_dataset/images/raccoon-106_ROT.jpg 31,23,224,150,0
+./raccoon_dataset/images/raccoon-107_HF.jpg 4,51,335,590,0
+./raccoon_dataset/images/raccoon-107_ROT.jpg 82,24,481,493,0
+./raccoon_dataset/images/raccoon-108_HF.jpg 202,53,505,464,0
+./raccoon_dataset/images/raccoon-108_ROT.jpg 64,67,461,384,0
+./raccoon_dataset/images/raccoon-109_HF.jpg 15,1,183,252,0
+./raccoon_dataset/images/raccoon-109_ROT.jpg 6,5,184,247,0
+./raccoon_dataset/images/raccoon-11_HF.jpg 199,1,657,431,0
+./raccoon_dataset/images/raccoon-11_ROT.jpg 2,0,473,413,0
+./raccoon_dataset/images/raccoon-110_HF.jpg 18,2,161,262,0
+./raccoon_dataset/images/raccoon-110_ROT.jpg 20,4,168,260,0
+./raccoon_dataset/images/raccoon-111_HF.jpg 85,5,727,917,0
+./raccoon_dataset/images/raccoon-111_ROT.jpg 36,13,689,916,0
+./raccoon_dataset/images/raccoon-112_HF.jpg 25,174,669,563,0
+./raccoon_dataset/images/raccoon-112_ROT.jpg 165,101,778,524,0
+./raccoon_dataset/images/raccoon-113_HF.jpg 256,1,639,436,0
+./raccoon_dataset/images/raccoon-113_ROT.jpg 8,0,417,404,0
+./raccoon_dataset/images/raccoon-114_HF.jpg 102,35,383,264,0
+./raccoon_dataset/images/raccoon-114_ROT.jpg 241,57,527,279,0
+./raccoon_dataset/images/raccoon-115_HF.jpg 75,130,375,556,0
+./raccoon_dataset/images/raccoon-115_ROT.jpg 75,121,364,559,0
+./raccoon_dataset/images/raccoon-116_HF.jpg 224,1,657,430,0
+./raccoon_dataset/images/raccoon-116_ROT.jpg 2,59,484,430,0
+./raccoon_dataset/images/raccoon-117_HF.jpg 374,124,540,324,0 70,101,298,297,0
+./raccoon_dataset/images/raccoon-117_ROT.jpg 120,100,318,265,0 308,160,550,340,0
+./raccoon_dataset/images/raccoon-118_HF.jpg 141,31,339,297,0
+./raccoon_dataset/images/raccoon-118_ROT.jpg 89,44,323,267,0
+./raccoon_dataset/images/raccoon-119_HF.jpg 38,62,384,353,0 123,359,189,402,0 120,392,202,473,0
+./raccoon_dataset/images/raccoon-119_ROT.jpg 65,50,358,390,0 163,336,215,392,0 133,355,206,444,0
+./raccoon_dataset/images/raccoon-12_HF.jpg 133,21,231,181,0 24,33,174,193,0
+./raccoon_dataset/images/raccoon-12_ROT.jpg 24,21,160,141,0 57,47,229,185,0
+./raccoon_dataset/images/raccoon-120_HF.jpg 150,12,531,331,0
+./raccoon_dataset/images/raccoon-120_ROT.jpg 97,53,533,312,0
+./raccoon_dataset/images/raccoon-121_HF.jpg 184,34,545,377,0
+./raccoon_dataset/images/raccoon-121_ROT.jpg 47,35,456,327,0
+./raccoon_dataset/images/raccoon-122_HF.jpg 4,7,171,198,0
+./raccoon_dataset/images/raccoon-122_ROT.jpg 5,6,148,221,0
+./raccoon_dataset/images/raccoon-123_HF.jpg 90,42,360,392,0
+./raccoon_dataset/images/raccoon-123_ROT.jpg 227,48,567,318,0
+./raccoon_dataset/images/raccoon-124_HF.jpg 20,39,242,147,0
+./raccoon_dataset/images/raccoon-124_ROT.jpg 18,37,238,149,0
+./raccoon_dataset/images/raccoon-125_HF.jpg 7,6,246,190,0
+./raccoon_dataset/images/raccoon-125_ROT.jpg 11,7,252,190,0
+./raccoon_dataset/images/raccoon-126_HF.jpg 9,5,250,192,0
+./raccoon_dataset/images/raccoon-126_ROT.jpg 6,6,247,192,0
+./raccoon_dataset/images/raccoon-127_HF.jpg 41,59,128,165,0
+./raccoon_dataset/images/raccoon-127_ROT.jpg 104,73,203,166,0
+./raccoon_dataset/images/raccoon-128_HF.jpg 69,87,183,148,0
+./raccoon_dataset/images/raccoon-128_ROT.jpg 67,66,163,144,0
+./raccoon_dataset/images/raccoon-129_HF.jpg 197,24,497,276,0
+./raccoon_dataset/images/raccoon-129_ROT.jpg 124,52,482,241,0
+./raccoon_dataset/images/raccoon-13_HF.jpg 267,28,605,313,0
+./raccoon_dataset/images/raccoon-13_ROT.jpg 48,117,402,386,0
+./raccoon_dataset/images/raccoon-130_HF.jpg 143,62,417,307,0 0,41,187,423,0
+./raccoon_dataset/images/raccoon-130_ROT.jpg 215,88,505,314,0 379,120,630,424,0
+./raccoon_dataset/images/raccoon-131_HF.jpg 60,1,258,184,0
+./raccoon_dataset/images/raccoon-131_ROT.jpg 5,0,218,168,0
+./raccoon_dataset/images/raccoon-132_HF.jpg 19,2,253,131,0
+./raccoon_dataset/images/raccoon-132_ROT.jpg 4,10,204,171,0
+./raccoon_dataset/images/raccoon-133_HF.jpg 14,6,482,631,0
+./raccoon_dataset/images/raccoon-133_ROT.jpg 6,9,479,630,0
+./raccoon_dataset/images/raccoon-134_HF.jpg 31,87,100,169,0
+./raccoon_dataset/images/raccoon-134_ROT.jpg 98,102,172,179,0
+./raccoon_dataset/images/raccoon-135_HF.jpg 35,8,541,404,0
+./raccoon_dataset/images/raccoon-135_ROT.jpg 80,13,605,387,0
+./raccoon_dataset/images/raccoon-136_HF.jpg 58,24,205,192,0
+./raccoon_dataset/images/raccoon-136_ROT.jpg 40,29,204,178,0
+./raccoon_dataset/images/raccoon-137_HF.jpg 16,8,249,233,0
+./raccoon_dataset/images/raccoon-137_ROT.jpg 44,10,306,206,0
+./raccoon_dataset/images/raccoon-138_HF.jpg 33,54,203,150,0
+./raccoon_dataset/images/raccoon-138_ROT.jpg 56,49,217,157,0
+./raccoon_dataset/images/raccoon-139_HF.jpg 82,6,239,167,0
+./raccoon_dataset/images/raccoon-139_ROT.jpg 28,12,215,144,0
+./raccoon_dataset/images/raccoon-14_HF.jpg 354,81,737,438,0
+./raccoon_dataset/images/raccoon-14_ROT.jpg 161,109,570,427,0
+./raccoon_dataset/images/raccoon-140_HF.jpg 2,17,198,231,0
+./raccoon_dataset/images/raccoon-140_ROT.jpg 6,16,200,232,0
+./raccoon_dataset/images/raccoon-141_HF.jpg 95,1,248,176,0
+./raccoon_dataset/images/raccoon-141_ROT.jpg 18,1,207,142,0
+./raccoon_dataset/images/raccoon-142_HF.jpg 213,162,853,740,0
+./raccoon_dataset/images/raccoon-142_ROT.jpg 188,160,878,687,0
+./raccoon_dataset/images/raccoon-143_HF.jpg 21,29,242,162,0
+./raccoon_dataset/images/raccoon-143_ROT.jpg 29,19,230,172,0
+./raccoon_dataset/images/raccoon-144_HF.jpg 183,42,453,390,0
+./raccoon_dataset/images/raccoon-144_ROT.jpg 111,56,403,375,0
+./raccoon_dataset/images/raccoon-145_HF.jpg 255,36,597,450,0 31,41,340,449,0
+./raccoon_dataset/images/raccoon-145_ROT.jpg 2,24,389,388,0 204,90,563,442,0
+./raccoon_dataset/images/raccoon-146_HF.jpg 4,4,271,180,0
+./raccoon_dataset/images/raccoon-146_ROT.jpg 4,3,271,180,0
+./raccoon_dataset/images/raccoon-147_HF.jpg 0,1,413,486,0
+./raccoon_dataset/images/raccoon-147_ROT.jpg 60,6,425,537,0
+./raccoon_dataset/images/raccoon-148_HF.jpg 326,177,468,316,0 72,172,191,315,0
+./raccoon_dataset/images/raccoon-148_ROT.jpg 48,186,193,321,0 302,156,427,292,0
+./raccoon_dataset/images/raccoon-149_HF.jpg 195,50,368,246,0
+./raccoon_dataset/images/raccoon-149_ROT.jpg 107,100,314,261,0
+./raccoon_dataset/images/raccoon-15_HF.jpg 26,61,327,360,0
+./raccoon_dataset/images/raccoon-15_ROT.jpg 279,92,605,356,0
+./raccoon_dataset/images/raccoon-150_HF.jpg 88,62,195,169,0
+./raccoon_dataset/images/raccoon-150_ROT.jpg 61,57,185,146,0
+./raccoon_dataset/images/raccoon-151_HF.jpg 117,94,183,224,0
+./raccoon_dataset/images/raccoon-151_ROT.jpg 19,66,120,162,0
+./raccoon_dataset/images/raccoon-152_HF.jpg 52,60,234,155,0
+./raccoon_dataset/images/raccoon-152_ROT.jpg 45,56,224,155,0
+./raccoon_dataset/images/raccoon-153_HF.jpg 88,1,690,700,0
+./raccoon_dataset/images/raccoon-153_ROT.jpg 6,33,644,696,0
+./raccoon_dataset/images/raccoon-154_HF.jpg 133,56,502,346,0
+./raccoon_dataset/images/raccoon-154_ROT.jpg 129,71,523,334,0
+./raccoon_dataset/images/raccoon-155_HF.jpg 116,91,213,169,0
+./raccoon_dataset/images/raccoon-155_ROT.jpg 65,89,164,165,0
+./raccoon_dataset/images/raccoon-156_HF.jpg 62,27,174,243,0
+./raccoon_dataset/images/raccoon-156_ROT.jpg 26,27,140,243,0
+./raccoon_dataset/images/raccoon-157_HF.jpg 76,1,219,209,0
+./raccoon_dataset/images/raccoon-157_ROT.jpg 1,28,165,216,0
+./raccoon_dataset/images/raccoon-158_HF.jpg 13,23,252,177,0
+./raccoon_dataset/images/raccoon-158_ROT.jpg 23,22,262,176,0
+./raccoon_dataset/images/raccoon-159_HF.jpg 3,11,212,221,0
+./raccoon_dataset/images/raccoon-159_ROT.jpg 8,12,219,221,0
+./raccoon_dataset/images/raccoon-16_HF.jpg 69,178,373,632,0
+./raccoon_dataset/images/raccoon-16_ROT.jpg 31,153,334,609,0
+./raccoon_dataset/images/raccoon-160_HF.jpg 94,42,249,197,0
+./raccoon_dataset/images/raccoon-160_ROT.jpg 5,31,169,177,0
+./raccoon_dataset/images/raccoon-161_HF.jpg 115,73,291,186,0
+./raccoon_dataset/images/raccoon-161_ROT.jpg 217,114,388,233,0
+./raccoon_dataset/images/raccoon-162_HF.jpg 98,34,214,184,0
+./raccoon_dataset/images/raccoon-162_ROT.jpg 29,33,187,144,0
+./raccoon_dataset/images/raccoon-163_HF.jpg 8,7,242,157,0
+./raccoon_dataset/images/raccoon-163_ROT.jpg 6,6,228,170,0
+./raccoon_dataset/images/raccoon-164_HF.jpg 96,27,264,184,0
+./raccoon_dataset/images/raccoon-164_ROT.jpg 5,14,200,145,0
+./raccoon_dataset/images/raccoon-165_HF.jpg 5,11,172,228,0
+./raccoon_dataset/images/raccoon-165_ROT.jpg 22,22,191,237,0
+./raccoon_dataset/images/raccoon-166_HF.jpg 120,31,220,120,0
+./raccoon_dataset/images/raccoon-166_ROT.jpg 91,49,226,107,0
+./raccoon_dataset/images/raccoon-167_HF.jpg 84,5,258,195,0
+./raccoon_dataset/images/raccoon-167_ROT.jpg 1,18,187,195,0
+./raccoon_dataset/images/raccoon-168_HF.jpg 254,88,530,303,0 157,1,455,309,0
+./raccoon_dataset/images/raccoon-168_ROT.jpg 118,111,435,280,0 127,46,510,260,0
+./raccoon_dataset/images/raccoon-169_HF.jpg 66,1,421,409,0
+./raccoon_dataset/images/raccoon-169_ROT.jpg 150,18,564,357,0
+./raccoon_dataset/images/raccoon-17_HF.jpg 92,60,164,118,0
+./raccoon_dataset/images/raccoon-17_ROT.jpg 93,61,166,119,0
+./raccoon_dataset/images/raccoon-170_HF.jpg 5,27,206,173,0
+./raccoon_dataset/images/raccoon-170_ROT.jpg 47,31,247,179,0
+./raccoon_dataset/images/raccoon-171_HF.jpg 44,21,116,115,0
+./raccoon_dataset/images/raccoon-171_ROT.jpg 108,56,189,142,0
+./raccoon_dataset/images/raccoon-172_HF.jpg 216,53,432,302,0
+./raccoon_dataset/images/raccoon-172_ROT.jpg 173,65,410,283,0
+./raccoon_dataset/images/raccoon-173_HF.jpg 35,21,348,387,0
+./raccoon_dataset/images/raccoon-173_ROT.jpg 124,88,517,373,0
+./raccoon_dataset/images/raccoon-174_HF.jpg 372,43,835,527,0
+./raccoon_dataset/images/raccoon-174_ROT.jpg 107,143,649,541,0
+./raccoon_dataset/images/raccoon-175_HF.jpg 280,89,565,378,0
+./raccoon_dataset/images/raccoon-175_ROT.jpg 53,67,385,301,0
+./raccoon_dataset/images/raccoon-176_HF.jpg 189,90,492,426,0 486,1,697,189,0
+./raccoon_dataset/images/raccoon-176_ROT.jpg 304,95,612,425,0 111,4,324,190,0
+./raccoon_dataset/images/raccoon-177_HF.jpg 119,18,268,178,0 13,13,130,146,0
+./raccoon_dataset/images/raccoon-177_ROT.jpg 7,9,202,127,0 101,70,259,165,0
+./raccoon_dataset/images/raccoon-178_HF.jpg 33,12,216,180,0
+./raccoon_dataset/images/raccoon-178_ROT.jpg 53,17,244,177,0
+./raccoon_dataset/images/raccoon-179_HF.jpg 330,176,599,427,0
+./raccoon_dataset/images/raccoon-179_ROT.jpg 66,205,353,436,0
+./raccoon_dataset/images/raccoon-18_HF.jpg 39,25,208,130,0
+./raccoon_dataset/images/raccoon-18_ROT.jpg 33,23,201,130,0
+./raccoon_dataset/images/raccoon-180_HF.jpg 232,21,481,399,0
+./raccoon_dataset/images/raccoon-180_ROT.jpg 91,44,414,337,0
+./raccoon_dataset/images/raccoon-181_HF.jpg 330,1,650,411,0
+./raccoon_dataset/images/raccoon-181_ROT.jpg 78,30,509,316,0
+./raccoon_dataset/images/raccoon-182_HF.jpg 221,122,483,499,0
+./raccoon_dataset/images/raccoon-182_ROT.jpg 14,106,293,467,0
+./raccoon_dataset/images/raccoon-183_HF.jpg 646,21,1642,1119,0
+./raccoon_dataset/images/raccoon-183_ROT.jpg 349,108,1494,1032,0
+./raccoon_dataset/images/raccoon-184_HF.jpg 73,77,559,617,0
+./raccoon_dataset/images/raccoon-184_ROT.jpg 57,78,565,596,0
+./raccoon_dataset/images/raccoon-185_HF.jpg 75,1,250,181,0
+./raccoon_dataset/images/raccoon-185_ROT.jpg 15,10,229,152,0
+./raccoon_dataset/images/raccoon-186_HF.jpg 104,40,606,387,0
+./raccoon_dataset/images/raccoon-186_ROT.jpg 47,60,558,400,0
+./raccoon_dataset/images/raccoon-187_HF.jpg 70,112,201,276,0
+./raccoon_dataset/images/raccoon-187_ROT.jpg 124,133,271,281,0
+./raccoon_dataset/images/raccoon-188_HF.jpg 94,71,434,334,0
+./raccoon_dataset/images/raccoon-188_ROT.jpg 35,49,368,320,0
+./raccoon_dataset/images/raccoon-189_HF.jpg 92,2,581,438,0
+./raccoon_dataset/images/raccoon-189_ROT.jpg 13,32,532,437,0
+./raccoon_dataset/images/raccoon-19_HF.jpg 77,8,172,89,0
+./raccoon_dataset/images/raccoon-19_ROT.jpg 107,38,207,114,0
+./raccoon_dataset/images/raccoon-190_HF.jpg 106,54,181,135,0
+./raccoon_dataset/images/raccoon-190_ROT.jpg 78,56,166,124,0
+./raccoon_dataset/images/raccoon-191_HF.jpg 156,89,534,331,0
+./raccoon_dataset/images/raccoon-191_ROT.jpg 114,103,475,361,0
+./raccoon_dataset/images/raccoon-192_HF.jpg 212,160,383,289,0
+./raccoon_dataset/images/raccoon-192_ROT.jpg 96,109,281,225,0
+./raccoon_dataset/images/raccoon-193_HF.jpg 194,215,611,831,0
+./raccoon_dataset/images/raccoon-193_ROT.jpg 21,187,448,795,0
+./raccoon_dataset/images/raccoon-194_HF.jpg 195,63,1079,1042,0
+./raccoon_dataset/images/raccoon-194_ROT.jpg 35,137,973,1063,0
+./raccoon_dataset/images/raccoon-195_HF.jpg 28,111,200,225,0
+./raccoon_dataset/images/raccoon-195_ROT.jpg 9,58,145,208,0
+./raccoon_dataset/images/raccoon-196_HF.jpg 22,87,150,211,0
+./raccoon_dataset/images/raccoon-196_ROT.jpg 53,82,184,204,0
+./raccoon_dataset/images/raccoon-197_HF.jpg 293,35,1166,653,0
+./raccoon_dataset/images/raccoon-197_ROT.jpg 116,56,1094,581,0
+./raccoon_dataset/images/raccoon-198_HF.jpg 101,21,202,184,0 60,32,147,158,0
+./raccoon_dataset/images/raccoon-198_ROT.jpg 41,31,184,151,0 89,57,205,153,0
+./raccoon_dataset/images/raccoon-199_HF.jpg 110,64,612,402,0
+./raccoon_dataset/images/raccoon-199_ROT.jpg 28,60,530,398,0
+./raccoon_dataset/images/raccoon-2_HF.jpg 338,51,740,499,0
+./raccoon_dataset/images/raccoon-2_ROT.jpg 80,45,593,389,0
+./raccoon_dataset/images/raccoon-20_HF.jpg 0,29,718,503,0
+./raccoon_dataset/images/raccoon-20_ROT.jpg 16,12,700,522,0
+./raccoon_dataset/images/raccoon-200_HF.jpg 12,10,154,166,0
+./raccoon_dataset/images/raccoon-200_ROT.jpg 86,39,248,174,0
+./raccoon_dataset/images/raccoon-21_HF.jpg 74,2,231,171,0
+./raccoon_dataset/images/raccoon-21_ROT.jpg 39,26,239,151,0
+./raccoon_dataset/images/raccoon-22_HF.jpg 174,76,388,335,0
+./raccoon_dataset/images/raccoon-22_ROT.jpg 149,125,485,280,0
+./raccoon_dataset/images/raccoon-23_HF.jpg 1,1,151,194,0
+./raccoon_dataset/images/raccoon-23_ROT.jpg 105,4,258,194,0
+./raccoon_dataset/images/raccoon-24_HF.jpg 89,48,191,156,0 66,77,129,145,0
+./raccoon_dataset/images/raccoon-24_ROT.jpg 71,49,182,146,0 125,83,194,144,0
+./raccoon_dataset/images/raccoon-25_HF.jpg 309,82,603,641,0
+./raccoon_dataset/images/raccoon-25_ROT.jpg 44,142,407,633,0
+./raccoon_dataset/images/raccoon-26_HF.jpg 0,5,192,337,0
+./raccoon_dataset/images/raccoon-26_ROT.jpg 88,35,305,345,0
+./raccoon_dataset/images/raccoon-27_HF.jpg 10,38,588,373,0
+./raccoon_dataset/images/raccoon-27_ROT.jpg 23,26,585,380,0
+./raccoon_dataset/images/raccoon-28_HF.jpg 1,80,509,452,0
+./raccoon_dataset/images/raccoon-28_ROT.jpg 98,37,601,415,0
+./raccoon_dataset/images/raccoon-29_HF.jpg 56,6,205,179,0
+./raccoon_dataset/images/raccoon-29_ROT.jpg 40,27,244,149,0
+./raccoon_dataset/images/raccoon-3_HF.jpg 0,1,719,476,0
+./raccoon_dataset/images/raccoon-3_ROT.jpg 0,0,720,476,0
+./raccoon_dataset/images/raccoon-30_HF.jpg 84,25,188,177,0
+./raccoon_dataset/images/raccoon-30_ROT.jpg 66,39,199,159,0
+./raccoon_dataset/images/raccoon-31_HF.jpg 49,21,154,197,0 156,55,225,145,0
+./raccoon_dataset/images/raccoon-31_ROT.jpg 73,24,191,187,0 17,68,90,154,0
+./raccoon_dataset/images/raccoon-32_HF.jpg 152,92,537,328,0
+./raccoon_dataset/images/raccoon-32_ROT.jpg 109,68,479,318,0
+./raccoon_dataset/images/raccoon-33_HF.jpg 9,12,513,843,0
+./raccoon_dataset/images/raccoon-33_ROT.jpg 45,48,593,839,0
+./raccoon_dataset/images/raccoon-34_HF.jpg 32,2,258,194,0
+./raccoon_dataset/images/raccoon-34_ROT.jpg 1,6,231,194,0
+./raccoon_dataset/images/raccoon-35_HF.jpg 111,1,274,183,0
+./raccoon_dataset/images/raccoon-35_ROT.jpg 1,48,214,182,0
+./raccoon_dataset/images/raccoon-36_HF.jpg 172,27,527,428,0
+./raccoon_dataset/images/raccoon-36_ROT.jpg 94,41,489,393,0
+./raccoon_dataset/images/raccoon-37_HF.jpg 20,1,507,592,0
+./raccoon_dataset/images/raccoon-37_ROT.jpg 8,7,506,588,0
+./raccoon_dataset/images/raccoon-38_HF.jpg 2,17,252,180,0
+./raccoon_dataset/images/raccoon-38_ROT.jpg 12,9,247,188,0
+./raccoon_dataset/images/raccoon-39_HF.jpg 0,12,196,166,0
+./raccoon_dataset/images/raccoon-39_ROT.jpg 41,5,247,150,0
+./raccoon_dataset/images/raccoon-4_HF.jpg 75,11,254,183,0
+./raccoon_dataset/images/raccoon-4_ROT.jpg 18,12,208,170,0
+./raccoon_dataset/images/raccoon-40_HF.jpg 131,53,316,275,0
+./raccoon_dataset/images/raccoon-40_ROT.jpg 126,77,356,254,0
+./raccoon_dataset/images/raccoon-41_HF.jpg 170,78,489,468,0
+./raccoon_dataset/images/raccoon-41_ROT.jpg 202,84,540,450,0
+./raccoon_dataset/images/raccoon-42_HF.jpg 167,206,456,767,0
+./raccoon_dataset/images/raccoon-42_ROT.jpg 119,219,418,773,0
+./raccoon_dataset/images/raccoon-43_HF.jpg 241,65,479,316,0
+./raccoon_dataset/images/raccoon-43_ROT.jpg 23,30,300,242,0
+./raccoon_dataset/images/raccoon-44_HF.jpg 53,14,255,165,0
+./raccoon_dataset/images/raccoon-44_ROT.jpg 30,21,257,147,0
+./raccoon_dataset/images/raccoon-45_HF.jpg 166,6,480,370,0
+./raccoon_dataset/images/raccoon-45_ROT.jpg 104,44,494,321,0
+./raccoon_dataset/images/raccoon-46_HF.jpg 153,2,431,318,0
+./raccoon_dataset/images/raccoon-46_ROT.jpg 104,45,464,271,0
+./raccoon_dataset/images/raccoon-47_HF.jpg 29,4,228,193,0
+./raccoon_dataset/images/raccoon-47_ROT.jpg 25,11,242,182,0
+./raccoon_dataset/images/raccoon-48_HF.jpg 21,28,218,176,0
+./raccoon_dataset/images/raccoon-48_ROT.jpg 42,23,240,171,0
+./raccoon_dataset/images/raccoon-49_HF.jpg 29,36,478,395,0
+./raccoon_dataset/images/raccoon-49_ROT.jpg 110,23,625,323,0
+./raccoon_dataset/images/raccoon-5_HF.jpg 10,3,267,179,0
+./raccoon_dataset/images/raccoon-5_ROT.jpg 3,4,259,182,0
+./raccoon_dataset/images/raccoon-50_HF.jpg 101,2,239,172,0
+./raccoon_dataset/images/raccoon-50_ROT.jpg 26,16,218,135,0
+./raccoon_dataset/images/raccoon-51_HF.jpg 28,105,485,540,0
+./raccoon_dataset/images/raccoon-51_ROT.jpg 296,90,766,509,0
+./raccoon_dataset/images/raccoon-52_HF.jpg 298,10,695,501,0
+./raccoon_dataset/images/raccoon-52_ROT.jpg 89,36,576,427,0
+./raccoon_dataset/images/raccoon-53_HF.jpg 62,45,188,171,0
+./raccoon_dataset/images/raccoon-53_ROT.jpg 65,45,214,150,0
+./raccoon_dataset/images/raccoon-54_HF.jpg 85,5,524,333,0
+./raccoon_dataset/images/raccoon-54_ROT.jpg 69,17,526,322,0
+./raccoon_dataset/images/raccoon-55_HF.jpg 384,49,628,320,0 71,27,360,410,0
+./raccoon_dataset/images/raccoon-55_ROT.jpg 31,165,337,373,0 188,38,585,310,0
+./raccoon_dataset/images/raccoon-56_HF.jpg 16,6,220,201,0
+./raccoon_dataset/images/raccoon-56_ROT.jpg 19,5,224,201,0
+./raccoon_dataset/images/raccoon-57_HF.jpg 2,6,558,423,0
+./raccoon_dataset/images/raccoon-57_ROT.jpg 64,24,636,423,0
+./raccoon_dataset/images/raccoon-58_HF.jpg 25,1,222,221,0
+./raccoon_dataset/images/raccoon-58_ROT.jpg 2,1,203,218,0
+./raccoon_dataset/images/raccoon-59_HF.jpg 151,2,599,432,0
+./raccoon_dataset/images/raccoon-59_ROT.jpg 1,54,443,491,0
+./raccoon_dataset/images/raccoon-6_HF.jpg 173,44,479,316,0
+./raccoon_dataset/images/raccoon-6_ROT.jpg 3,52,313,320,0
+./raccoon_dataset/images/raccoon-60_HF.jpg 76,33,215,127,0
+./raccoon_dataset/images/raccoon-60_ROT.jpg 53,45,192,139,0
+./raccoon_dataset/images/raccoon-61_HF.jpg 79,63,180,148,0 61,39,132,108,0
+./raccoon_dataset/images/raccoon-61_ROT.jpg 93,61,196,145,0 137,38,210,106,0
+./raccoon_dataset/images/raccoon-62_HF.jpg 8,19,567,407,0
+./raccoon_dataset/images/raccoon-62_ROT.jpg 50,8,636,373,0
+./kangaroo/images/00001_HF.jpg 64,89,217,262,1 109,105,316,253,1
+./kangaroo/images/00001_ROT.jpg 178,59,377,188,1 141,86,349,233,1
+./kangaroo/images/00002_HF.jpg 310,114,394,309,1 135,117,328,306,1
+./kangaroo/images/00002_ROT.jpg 177,157,382,245,1 216,87,474,217,1
+./kangaroo/images/00003_HF.jpg 57,5,361,279,1
+./kangaroo/images/00003_ROT.jpg 59,44,426,260,1
+./kangaroo/images/00004_HF.jpg 134,71,435,233,1
+./kangaroo/images/00004_ROT.jpg 29,56,320,231,1
+./kangaroo/images/00005_HF.jpg 157,213,492,466,1
+./kangaroo/images/00005_ROT.jpg 440,136,807,358,1
+./kangaroo/images/00006_HF.jpg 274,173,454,422,1 414,307,554,385,1
+./kangaroo/images/00006_ROT.jpg 190,174,382,406,1 109,302,248,382,1
+./kangaroo/images/00007_HF.jpg 31,24,361,301,1
+./kangaroo/images/00007_ROT.jpg 217,101,599,324,1
+./kangaroo/images/00009_HF.jpg 273,135,467,348,1
+./kangaroo/images/00009_ROT.jpg 111,185,346,359,1
+./kangaroo/images/00010_HF.jpg 247,116,891,600,1 360,74,848,569,1 779,125,899,599,1
+./kangaroo/images/00010_ROT.jpg 5,50,682,501,1 49,50,639,444,1 0,50,355,289,1
+./kangaroo/images/00011_HF.jpg 230,116,633,331,1
+./kangaroo/images/00011_ROT.jpg 58,138,431,386,1
+./kangaroo/images/00012_HF.jpg 0,157,259,346,1
+./kangaroo/images/00012_ROT.jpg 279,120,537,310,1
+./kangaroo/images/00013_HF.jpg 172,87,377,355,1 4,114,538,399,1
+./kangaroo/images/00013_ROT.jpg 187,128,448,338,1 64,79,540,424,1
+./kangaroo/images/00014_HF.jpg 0,27,239,308,1 198,154,337,305,1 248,93,384,214,1 294,156,616,318,1
+./kangaroo/images/00014_ROT.jpg 346,19,612,262,1 282,143,434,274,1 228,105,372,215,1 32,158,350,326,1
+./kangaroo/images/00016_HF.jpg 35,15,509,415,1
+./kangaroo/images/00016_ROT.jpg 81,17,563,407,1
+./kangaroo/images/00017_HF.jpg 109,3,554,387,1
+./kangaroo/images/00017_ROT.jpg 59,9,515,378,1
+./kangaroo/images/00018_HF.jpg 2,1,259,281,1
+./kangaroo/images/00018_ROT.jpg 192,0,464,262,1
+./kangaroo/images/00019_HF.jpg 355,74,466,358,1 42,159,266,396,1
+./kangaroo/images/00019_ROT.jpg 164,100,375,280,1 274,216,534,415,1
+./kangaroo/images/00020_HF.jpg 158,28,652,472,1 189,302,242,373,1
+./kangaroo/images/00020_ROT.jpg 87,41,614,445,1 445,315,509,374,1
+./kangaroo/images/00021_HF.jpg 0,194,340,371,1 134,263,456,399,1
+./kangaroo/images/00021_ROT.jpg 298,146,629,335,1 211,220,517,375,1
+./kangaroo/images/00022_HF.jpg 279,205,598,399,1 61,131,111,207,1 484,138,589,211,1 191,174,325,221,1 335,141,442,202,1
+./kangaroo/images/00022_ROT.jpg 33,203,351,399,1 496,123,549,196,1 37,153,143,226,1 293,170,425,220,1 179,148,285,210,1
+./kangaroo/images/00023_HF.jpg 241,47,393,257,1
+./kangaroo/images/00023_ROT.jpg 109,57,320,210,1
+./kangaroo/images/00024_HF.jpg 124,260,392,428,1 370,69,549,370,1
+./kangaroo/images/00024_ROT.jpg 155,212,398,403,1 123,69,418,260,1
+./kangaroo/images/00025_HF.jpg 0,49,618,363,1
+./kangaroo/images/00025_ROT.jpg 62,29,610,413,1
+./kangaroo/images/00026_HF.jpg 31,284,214,407,1
+./kangaroo/images/00026_ROT.jpg 239,281,409,418,1
+./kangaroo/images/00027_HF.jpg 288,1,495,199,1
+./kangaroo/images/00027_ROT.jpg 120,16,352,164,1
+./kangaroo/images/00028_HF.jpg 17,95,550,467,1 404,69,635,352,1
+./kangaroo/images/00028_ROT.jpg 136,45,662,424,1 72,201,374,415,1
+./kangaroo/images/00029_HF.jpg 111,52,311,258,1
+./kangaroo/images/00029_ROT.jpg 108,68,352,232,1
+./kangaroo/images/00030_HF.jpg 64,21,268,434,1
+./kangaroo/images/00030_ROT.jpg 23,39,254,430,1
+./kangaroo/images/00031_HF.jpg 188,17,447,326,1 22,75,256,283,1
+./kangaroo/images/00031_ROT.jpg 6,61,301,329,1 169,53,414,250,1
+./kangaroo/images/00032_HF.jpg 218,27,397,357,1
+./kangaroo/images/00032_ROT.jpg 73,67,303,339,1
+./kangaroo/images/00033_HF.jpg 31,24,361,301,1
+./kangaroo/images/00033_ROT.jpg 266,23,601,293,1
+./kangaroo/images/00034_HF.jpg 370,141,639,449,1
+./kangaroo/images/00034_ROT.jpg 13,59,346,303,1
+./kangaroo/images/00036_HF.jpg 488,2,690,493,1 82,280,543,502,1 17,133,379,301,1 278,103,461,232,1 0,31,124,267,1
+./kangaroo/images/00036_ROT.jpg 99,27,408,389,1 214,240,650,492,1 405,185,746,379,1 361,146,546,273,1 620,181,790,362,1
+./kangaroo/images/00037_HF.jpg 167,59,264,325,1 296,80,452,318,1 281,140,538,388,1
+./kangaroo/images/00037_ROT.jpg 229,84,404,264,1 102,136,309,318,1 63,165,347,384,1
+./kangaroo/images/00038_HF.jpg 0,19,232,263,1
+./kangaroo/images/00038_ROT.jpg 137,7,416,205,1
+./kangaroo/images/00039_HF.jpg 255,27,421,272,1 147,52,310,281,1
+./kangaroo/images/00039_ROT.jpg 163,65,397,231,1 241,109,466,267,1
+./kangaroo/images/00040_HF.jpg 124,132,194,203,1
+./kangaroo/images/00040_ROT.jpg 448,125,520,193,1
+./kangaroo/images/00041_HF.jpg 0,118,643,456,1
+./kangaroo/images/00041_ROT.jpg 302,90,929,450,1
+./kangaroo/images/00042_HF.jpg 28,429,354,769,1
+./kangaroo/images/00042_ROT.jpg 125,388,413,766,1
+./kangaroo/images/00043_HF.jpg 173,4,617,391,1
+./kangaroo/images/00043_ROT.jpg 16,12,550,319,1
+./kangaroo/images/00044_HF.jpg 207,48,482,468,1 353,300,467,414,1
+./kangaroo/images/00044_ROT.jpg 340,181,780,434,1 383,280,528,363,1
+./kangaroo/images/00045_HF.jpg 333,148,430,395,1 196,180,338,422,1
+./kangaroo/images/00045_ROT.jpg 196,150,326,357,1 270,190,437,402,1
+./kangaroo/images/00046_HF.jpg 412,105,635,289,1 62,106,323,335,1
+./kangaroo/images/00046_ROT.jpg 17,135,250,305,1 301,88,575,298,1
+./kangaroo/images/00047_HF.jpg 155,210,323,281,1
+./kangaroo/images/00047_ROT.jpg 186,188,344,271,1
+./kangaroo/images/00048_HF.jpg 13,155,160,265,1 179,110,262,149,1 324,143,453,190,1 276,207,426,292,1
+./kangaroo/images/00048_ROT.jpg 318,225,465,335,1 311,164,382,215,1 170,107,274,179,1 137,149,273,248,1
+./kangaroo/images/00049_HF.jpg 69,94,320,412,1
+./kangaroo/images/00049_ROT.jpg 267,129,549,410,1
+./kangaroo/images/00050_HF.jpg 291,222,771,574,1 347,415,412,495,1
+./kangaroo/images/00050_ROT.jpg 102,155,596,492,1 389,371,471,433,1
+./kangaroo/images/00051_HF.jpg 165,38,326,348,1 277,87,522,346,1
+./kangaroo/images/00051_ROT.jpg 199,66,399,327,1 29,69,293,306,1
+./kangaroo/images/00052_HF.jpg 144,38,326,221,1
+./kangaroo/images/00052_ROT.jpg 123,46,314,217,1
+./kangaroo/images/00053_HF.jpg 530,157,723,438,1 191,157,347,565,1 726,268,876,446,1
+./kangaroo/images/00053_ROT.jpg 271,209,497,448,1 595,148,816,473,1 163,325,330,481,1
+./kangaroo/images/00054_HF.jpg 0,22,495,449,1
+./kangaroo/images/00054_ROT.jpg 97,10,613,416,1
+./kangaroo/images/00055_HF.jpg 168,19,353,339,1
+./kangaroo/images/00055_ROT.jpg 95,69,395,273,1
+./kangaroo/images/00056_HF.jpg 55,3,178,256,1 141,118,399,250,1
+./kangaroo/images/00056_ROT.jpg 171,75,360,257,1 21,66,253,225,1
+./kangaroo/images/00059_HF.jpg 0,186,670,506,1
+./kangaroo/images/00059_ROT.jpg 130,185,800,506,1
+./kangaroo/images/00060_HF.jpg 140,106,340,369,1 307,213,507,425,1
+./kangaroo/images/00060_ROT.jpg 250,99,519,290,1 199,208,441,377,1
+./kangaroo/images/00061_HF.jpg 0,182,496,573,1
+./kangaroo/images/00061_ROT.jpg 493,93,1037,427,1
+./kangaroo/images/00062_HF.jpg 380,112,599,446,1 295,98,420,435,1
+./kangaroo/images/00062_ROT.jpg 1,103,229,425,1 173,100,311,420,1
+./kangaroo/images/00064_HF.jpg 343,156,725,443,1
+./kangaroo/images/00064_ROT.jpg 102,174,498,443,1
+./kangaroo/images/00065_HF.jpg 76,38,238,434,1
+./kangaroo/images/00065_ROT.jpg 59,55,262,416,1
+./kangaroo/images/00066_HF.jpg 25,235,357,451,1
+./kangaroo/images/00066_ROT.jpg 358,237,689,454,1
+./kangaroo/images/00069_HF.jpg 344,54,649,325,1
+./kangaroo/images/00069_ROT.jpg 33,36,356,285,1
+./kangaroo/images/00071_HF.jpg 132,150,492,346,1
+./kangaroo/images/00071_ROT.jpg 93,139,452,337,1
+./kangaroo/images/00072_HF.jpg 77,61,176,397,1
+./kangaroo/images/00072_ROT.jpg 113,66,244,375,1
+./kangaroo/images/00073_HF.jpg 47,35,436,482,1
+./kangaroo/images/00073_ROT.jpg 396,32,879,380,1
+./kangaroo/images/00074_HF.jpg 197,36,667,443,1
+./kangaroo/images/00074_ROT.jpg 32,30,535,399,1
+./kangaroo/images/00075_HF.jpg 38,82,416,244,1 156,44,196,79,1 298,27,388,76,1 391,38,449,76,1
+./kangaroo/images/00075_ROT.jpg 42,71,407,250,1 236,55,277,88,1 59,59,148,110,1 6,80,64,118,1
+./kangaroo/images/00076_HF.jpg 233,38,335,266,1 106,103,233,258,1 139,86,247,236,1
+./kangaroo/images/00076_ROT.jpg 138,59,264,250,1 241,94,380,231,1 226,85,346,216,1
+./kangaroo/images/00077_HF.jpg 276,120,499,319,1
+./kangaroo/images/00077_ROT.jpg 55,156,298,334,1
+./kangaroo/images/00078_HF.jpg 64,123,880,456,1
+./kangaroo/images/00078_ROT.jpg 165,70,883,503,1
+./kangaroo/images/00079_HF.jpg 189,76,730,468,1
+./kangaroo/images/00079_ROT.jpg 142,109,706,480,1
+./kangaroo/images/00080_HF.jpg 94,160,469,642,1
+./kangaroo/images/00080_ROT.jpg 238,166,623,637,1
+./kangaroo/images/00081_HF.jpg 285,95,447,337,1
+./kangaroo/images/00081_ROT.jpg 251,159,511,310,1
+./kangaroo/images/00083_HF.jpg 41,179,782,548,1
+./kangaroo/images/00083_ROT.jpg 224,138,940,541,1
+./kangaroo/images/00084_HF.jpg 6,129,473,388,1
+./kangaroo/images/00084_ROT.jpg 24,62,407,405,1
+./kangaroo/images/00085_HF.jpg 44,175,276,572,1 282,8,621,504,1 81,138,782,583,1
+./kangaroo/images/00085_ROT.jpg 363,77,760,321,1 85,147,603,477,1 109,84,751,585,1
+./kangaroo/images/00086_HF.jpg 33,189,627,466,1 568,291,919,489,1
+./kangaroo/images/00086_ROT.jpg 227,183,782,495,1 50,91,407,284,1
+./kangaroo/images/00087_HF.jpg 0,51,292,349,1
+./kangaroo/images/00087_ROT.jpg 80,82,375,377,1
+./kangaroo/images/00088_HF.jpg 174,118,325,350,1 278,164,439,363,1
+./kangaroo/images/00088_ROT.jpg 290,120,445,346,1 178,161,342,356,1
+./kangaroo/images/00089_HF.jpg 19,72,504,277,1
+./kangaroo/images/00089_ROT.jpg 62,44,476,324,1
+./kangaroo/images/00090_HF.jpg 6,163,438,370,1 0,39,299,219,1 322,81,542,289,1
+./kangaroo/images/00090_ROT.jpg 128,141,537,377,1 285,94,578,280,1 68,63,307,250,1
+./kangaroo/images/00091_HF.jpg 306,160,641,643,1
+./kangaroo/images/00091_ROT.jpg 276,210,739,557,1
+./kangaroo/images/00092_HF.jpg 187,47,376,299,1
+./kangaroo/images/00092_ROT.jpg 69,104,343,277,1
+./kangaroo/images/00093_HF.jpg 108,1,512,382,1
+./kangaroo/images/00093_ROT.jpg 413,86,857,413,1
+./kangaroo/images/00094_HF.jpg 219,19,437,378,1
+./kangaroo/images/00094_ROT.jpg 116,68,448,309,1
+./kangaroo/images/00095_HF.jpg 28,151,268,340,1
+./kangaroo/images/00095_ROT.jpg 321,73,585,237,1
+./kangaroo/images/00096_HF.jpg 157,147,533,476,1
+./kangaroo/images/00096_ROT.jpg 358,128,765,422,1
+./kangaroo/images/00097_HF.jpg 163,190,934,582,1
+./kangaroo/images/00097_ROT.jpg 131,159,863,597,1
+./kangaroo/images/00098_HF.jpg 306,155,501,365,1
+./kangaroo/images/00098_ROT.jpg 87,106,355,246,1
+./kangaroo/images/00099_HF.jpg 311,126,714,546,1 446,438,562,536,1 204,1,692,324,1
+./kangaroo/images/00099_ROT.jpg 250,160,730,499,1 355,359,482,446,1 377,110,864,435,1
+./kangaroo/images/00100_HF.jpg 3,93,549,382,1
+./kangaroo/images/00100_ROT.jpg 146,40,650,372,1
+./kangaroo/images/00101_HF.jpg 253,85,577,499,1
+./kangaroo/images/00101_ROT.jpg 193,105,568,457,1
+./kangaroo/images/00102_HF.jpg 0,84,323,406,1
+./kangaroo/images/00102_ROT.jpg 275,56,625,347,1
+./kangaroo/images/00103_HF.jpg 113,113,208,273,1 209,84,461,274,1
+./kangaroo/images/00103_ROT.jpg 235,92,382,199,1 57,115,320,293,1
+./kangaroo/images/00105_HF.jpg 512,48,881,541,1
+./kangaroo/images/00105_ROT.jpg 61,51,636,349,1
+./kangaroo/images/00107_HF.jpg 194,150,347,226,1 170,181,208,224,1 125,128,150,205,1 66,146,127,192,1
+./kangaroo/images/00107_ROT.jpg 39,161,172,257,1 150,178,190,219,1 179,127,218,190,1 201,125,258,175,1
+./kangaroo/images/00108_HF.jpg 216,93,405,258,1 135,91,205,229,1 12,107,120,254,1 326,19,493,295,1
+./kangaroo/images/00108_ROT.jpg 100,102,298,255,1 280,89,366,204,1 359,83,481,211,1 9,61,205,295,1
+./kangaroo/images/00109_HF.jpg 118,86,500,379,1
+./kangaroo/images/00109_ROT.jpg 107,82,504,359,1
+./kangaroo/images/00110_HF.jpg 104,73,390,212,1
+./kangaroo/images/00110_ROT.jpg 163,83,435,236,1
+./kangaroo/images/00111_HF.jpg 4,146,217,274,1
+./kangaroo/images/00111_ROT.jpg 369,163,584,289,1
+./kangaroo/images/00112_HF.jpg 423,253,531,373,1 93,350,299,461,1 676,258,720,316,1
+./kangaroo/images/00112_ROT.jpg 269,253,377,373,1 501,348,707,459,1 80,259,124,317,1
+./kangaroo/images/00113_HF.jpg 181,101,406,273,1 55,166,290,252,1
+./kangaroo/images/00113_ROT.jpg 58,106,287,274,1 171,132,391,238,1
+./kangaroo/images/00114_HF.jpg 156,33,449,234,1 29,140,217,233,1
+./kangaroo/images/00114_ROT.jpg 16,72,306,277,1 220,78,388,192,1
+./kangaroo/images/00115_HF.jpg 347,272,767,632,1 198,348,576,583,1 32,266,282,509,1 586,285,699,390,1
+./kangaroo/images/00115_ROT.jpg 242,254,700,575,1 403,230,767,480,1 543,130,831,334,1 292,351,420,441,1
+./kangaroo/images/00116_HF.jpg 496,73,737,530,1 108,27,518,587,1
+./kangaroo/images/00116_ROT.jpg 202,149,520,508,1 375,40,862,502,1
+./kangaroo/images/00117_HF.jpg 13,65,233,557,1
+./kangaroo/images/00117_ROT.jpg 182,240,587,551,1
+./kangaroo/images/00118_HF.jpg 171,63,393,324,1 342,45,520,326,1
+./kangaroo/images/00118_ROT.jpg 110,77,383,282,1 20,26,272,227,1
+./kangaroo/images/00119_HF.jpg 401,311,719,703,1 57,517,276,884,1 28,417,156,654,1 318,508,450,957,1 498,484,719,888,1
+./kangaroo/images/00119_ROT.jpg 156,429,458,839,1 406,282,663,609,1 396,214,557,416,1 344,463,613,767,1 242,579,518,925,1
+./kangaroo/images/00120_HF.jpg 76,80,513,453,1
+./kangaroo/images/00120_ROT.jpg 183,108,636,464,1
+./kangaroo/images/00121_HF.jpg 60,117,628,363,1
+./kangaroo/images/00121_ROT.jpg 23,94,567,372,1
+./kangaroo/images/00122_HF.jpg 139,54,377,227,1 5,89,268,202,1
+./kangaroo/images/00122_ROT.jpg 73,61,312,233,1 177,75,431,200,1
+./kangaroo/images/00123_HF.jpg 46,295,398,470,1
+./kangaroo/images/00123_ROT.jpg 529,175,858,377,1
+./kangaroo/images/00124_HF.jpg 217,165,611,340,1
+./kangaroo/images/00124_ROT.jpg 128,136,491,342,1
+./kangaroo/images/00125_HF.jpg 125,170,362,278,1
+./kangaroo/images/00125_ROT.jpg 96,146,316,275,1
+./kangaroo/images/00127_HF.jpg 55,173,372,342,1
+./kangaroo/images/00127_ROT.jpg 174,167,488,341,1
+./kangaroo/images/00128_HF.jpg 332,176,634,385,1
+./kangaroo/images/00128_ROT.jpg 177,152,481,358,1
+./kangaroo/images/00129_HF.jpg 595,32,777,450,1
+./kangaroo/images/00129_ROT.jpg 172,82,599,276,1
+./kangaroo/images/00130_HF.jpg 275,84,398,195,1
+./kangaroo/images/00130_ROT.jpg 86,158,226,253,1
+./kangaroo/images/00131_HF.jpg 445,137,591,388,1
+./kangaroo/images/00131_ROT.jpg 243,139,457,307,1
+./kangaroo/images/00132_HF.jpg 25,155,428,626,1
+./kangaroo/images/00132_ROT.jpg 346,228,822,618,1
+./kangaroo/images/00134_HF.jpg 11,56,522,349,1
+./kangaroo/images/00134_ROT.jpg 38,44,525,365,1
+./kangaroo/images/00136_HF.jpg 284,98,603,331,1
+./kangaroo/images/00136_ROT.jpg 84,140,444,336,1
+./kangaroo/images/00137_HF.jpg 420,297,764,533,1 34,444,376,651,1 854,346,999,503,1
+./kangaroo/images/00137_ROT.jpg 262,219,592,470,1 376,459,685,698,1 166,123,343,250,1
+./kangaroo/images/00139_HF.jpg 298,122,544,444,1 532,298,675,477,1 30,307,290,461,1 112,260,297,404,1
+./kangaroo/images/00139_ROT.jpg 176,134,442,430,1 78,307,231,472,1 432,258,690,415,1 420,228,607,369,1
+./kangaroo/images/00140_HF.jpg 461,33,934,638,1
+./kangaroo/images/00140_ROT.jpg 35,230,661,687,1
+./kangaroo/images/00141_HF.jpg 6,38,353,280,1
+./kangaroo/images/00141_ROT.jpg 95,36,442,279,1
+./kangaroo/images/00143_HF.jpg 20,227,603,683,1
+./kangaroo/images/00143_ROT.jpg 404,146,1008,577,1
+./kangaroo/images/00144_HF.jpg 202,72,669,522,1
+./kangaroo/images/00144_ROT.jpg 119,86,641,481,1
+./kangaroo/images/00145_HF.jpg 0,55,190,308,1
+./kangaroo/images/00145_ROT.jpg 205,59,398,309,1
+./kangaroo/images/00146_HF.jpg 45,72,264,407,1
+./kangaroo/images/00146_ROT.jpg 273,60,537,343,1
+./kangaroo/images/00147_HF.jpg 182,105,851,544,1
+./kangaroo/images/00147_ROT.jpg 152,113,818,555,1
+./kangaroo/images/00148_HF.jpg 49,33,543,398,1
+./kangaroo/images/00148_ROT.jpg 202,40,701,398,1
